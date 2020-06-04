@@ -1,2 +1,3 @@
-20203126	이충호
-Kookmin Univ, SW
+20203126 Lee Chungho
+
+Kookmin Univ. SW
