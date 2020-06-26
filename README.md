@@ -2,4 +2,4 @@
 
 Kookmin Univ. SW
 
-[Local File Change]
+[Remote File Change]
