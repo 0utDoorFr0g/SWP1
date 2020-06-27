@@ -13,7 +13,6 @@ def application(environ, start_response):
     
     start_response(status, response_headers)
     return [response_body]
-
 httpd = make_server(
     '',
     8051,
